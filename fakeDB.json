@@ -1,0 +1,24 @@
+{
+  "booking": [
+  {
+    "id": 0,
+    "nome": "Abdul Rafy",
+    "cognome": "Muhammad",
+    "data": "29/04/2024",
+    "ora": "15.67",
+    "indirizzo": "viale Monza",
+    "email": "random.mail@gmail.com",
+    "telefono": "1234"
+  },
+  {
+    "id": 1,
+    "nome": "Osama",
+    "cognome": "Bin Laden",
+    "data": "29/04/2024",
+    "ora": "12.32",
+    "indirizzo": "--",
+    "email": "--",
+    "telefono": "--"
+  }
+  ]
+}
